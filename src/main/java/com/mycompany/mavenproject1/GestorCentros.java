@@ -11,7 +11,7 @@ public class GestorCentros {
     private int cima;           // puntero que indica la posición actual de la cima de la pila
     private int siguienteId;    // contador global autoincremental para los IDs de los centros
 
-    /**
+    /**    C:\Users\RizoR\OneDrive\Universidad\Universidad\III 2026\Estructura de Datos\Proyecto Evaluativo\Proyecto_Evalutativo_Ramon_Montenegro\src\main\java\com\mycompany\proyecto_evalutativo_ramon_montenegro    Set-Location -LiteralPath "C:\Users\RizoR\OneDrive\Universidad\Universidad\III 2026\Estructura de Datos\Proyecto Evaluativo\Proyecto_Evalutativo_Ramon_Montenegro\src\main\java\com\mycompany\proyecto_evalutativo_ramon_montenegro"    Set-Location -LiteralPath "C:\Users\RizoR\OneDrive\Universidad\Universidad\III 2026\Estructura de Datos\Proyecto Evaluativo\Proyecto_Evalutativo_Ramon_Montenegro\src\main\java\com\mycompany\proyecto_evalutativo_ramon_montenegro"
      * Inicializa una pila vacía y el consecutivo de identificadores.
      */
     public GestorCentros() {
